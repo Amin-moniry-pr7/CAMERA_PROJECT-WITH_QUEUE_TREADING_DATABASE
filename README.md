@@ -70,7 +70,7 @@ To run this project, ensure you have the following installed:
 
 - Add a graphical user interface (GUI).
 - Support for real-time video streams.
-- Extend functionality for additional model integration.
+- Extend functionality  for additional model integration.
 
 ## License
 
